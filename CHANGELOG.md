@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.6.3](https://github.com/starship/starship/compare/v1.6.2...v1.6.3) (2022-04-20)
+
+
+### Bug Fixes
+
+* **schema:** move config-schema into docs folder ([#3878](https://github.com/starship/starship/issues/3878)) ([094f982](https://github.com/starship/starship/commit/094f982df184eecd85ea2832b3bf638629118c10))
+
+
+### Reverts
+
+* **schema:** move config-schema back into .github folder ([#3886](https://github.com/starship/starship/issues/3886)) ([9b2ce42](https://github.com/starship/starship/commit/9b2ce4240c602df368f966996d870ef9197e65ac))
+
 ### [1.6.2](https://github.com/starship/starship/compare/v1.6.1...v1.6.2) (2022-04-15)
 
 
